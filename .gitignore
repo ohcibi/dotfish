@@ -1,0 +1,6 @@
+fishd.*
+fish_history
+generated_completions
+fish_read_history
+
+/conf.d/iterm2_shell_integration.fish
